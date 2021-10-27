@@ -1,0 +1,3 @@
+﻿  LinkList.cpp
+C:\Users\27253\Desktop\单链表demo\单链表demo\LinkList.h(189): warning C4715: “LinkList<int>::Delete”: 不是所有的控件路径都返回值
+  单链表demo.vcxproj -> C:\Users\27253\Desktop\单链表demo\x64\Debug\单链表demo.exe
